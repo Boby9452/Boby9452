@@ -1,4 +1,4 @@
-### welcome to Data Science World 👋
+### Welcome to Data Science World 👋
 
 <!--
 **Boby9452/Boby9452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
